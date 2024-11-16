@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onebite-todolist/static/css/main.272070e4.css",
+    "main.js": "/onebite-todolist/static/js/main.c2b21963.js",
+    "index.html": "/onebite-todolist/index.html",
+    "main.272070e4.css.map": "/onebite-todolist/static/css/main.272070e4.css.map",
+    "main.c2b21963.js.map": "/onebite-todolist/static/js/main.c2b21963.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.272070e4.css",
+    "static/js/main.c2b21963.js"
+  ]
+}

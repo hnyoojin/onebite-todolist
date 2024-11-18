@@ -13,7 +13,7 @@ const TodoList = ({ todo, onUpdate, onDelete }) => {
         return search === ""
         ? todo
         : todo.filter((it) =>
-            it.content.toLowerCase().includes(search.toLowerCase()) 
+            it.content.toLowerCase().includes(search) 
         );
     };
 
